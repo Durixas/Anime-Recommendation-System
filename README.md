@@ -1,4 +1,4 @@
-# Anime Recommendation System
+# Anime Recommendation System based on Matrix Factorization
 
 ## Project Overview
 
